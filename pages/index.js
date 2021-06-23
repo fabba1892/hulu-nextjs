@@ -34,7 +34,7 @@ export async function getServerSideProps(context) {
   };
 }
 
-// yarn add talwind
+// yarn add talwind1
 // tailwind css init
 // app/style yarn run dev
 // header next.config and link created
