@@ -37,6 +37,6 @@ export async function getServerSideProps(context) {
 // yarn add talwind1
 // tailwind css init
 // app/style yarn run dev1
-// header next.config and link created
+// header next.config and link created1
 
 // genre pages works as well
