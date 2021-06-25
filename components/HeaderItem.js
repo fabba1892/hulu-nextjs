@@ -10,3 +10,5 @@ function HeaderItem({ Icon, title }) {
 }
 
 export default HeaderItem;
+
+// icons rendered yarn add heroicons
