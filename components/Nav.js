@@ -28,3 +28,5 @@ function Nav() {
 }
 
 export default Nav;
+
+// nav requests from tmdb
