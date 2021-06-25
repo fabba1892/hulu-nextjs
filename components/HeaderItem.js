@@ -13,3 +13,4 @@ export default HeaderItem;
 
 // icons rendered yarn add heroicons
 // mobile first dev as if on small scren
+// style hover and bounce
