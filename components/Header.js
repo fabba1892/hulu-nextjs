@@ -35,3 +35,4 @@ export default Header;
 
 // header next.config and link created1
 // icons rendered yarn add heroicons
+// heroicons added
