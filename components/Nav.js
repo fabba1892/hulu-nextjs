@@ -32,3 +32,4 @@ export default Nav;
 // nav requests from tmdb
 // nav scroll etc
 // scrollbar hide and style
+// fade of the scroll titles
