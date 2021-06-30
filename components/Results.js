@@ -15,3 +15,5 @@ function Results({ results }) {
 }
 
 export default Results;
+
+// resultsto tmdb api serverSide to get the genre

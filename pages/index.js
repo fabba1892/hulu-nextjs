@@ -39,5 +39,6 @@ export async function getServerSideProps(context) {
 // app/style yarn run dev1
 // header next.config and link created1
 // nav scroll etc
+// resultsto tmdb api serverSide to get the genre
 
 // genre pages works as well
