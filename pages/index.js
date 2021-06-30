@@ -40,5 +40,6 @@ export async function getServerSideProps(context) {
 // header next.config and link created1
 // nav scroll etc
 // resultsto tmdb api serverSide to get the genre
+// now we get data from tmdb
 
 // genre pages works as well
