@@ -20,3 +20,4 @@ export default Results;
 // thumbnail and fetch of data working
 // thumbnail objects render lazy loading images out da box, and p tags of name
 // now see thumbUp release date mvie vote count etc
+// style the movi name hover etc
