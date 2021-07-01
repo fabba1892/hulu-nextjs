@@ -19,3 +19,4 @@ export default Results;
 // resultsto tmdb api serverSide to get the genre
 // thumbnail and fetch of data working
 // thumbnail objects render lazy loading images out da box, and p tags of name
+// now see thumbUp release date mvie vote count etc
