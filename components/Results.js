@@ -21,3 +21,4 @@ export default Results;
 // thumbnail objects render lazy loading images out da box, and p tags of name
 // now see thumbUp release date mvie vote count etc
 // style the movi name hover etc
+// grid cols when going to bigger screen
