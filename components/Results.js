@@ -22,3 +22,4 @@ export default Results;
 // now see thumbUp release date mvie vote count etc
 // style the movi name hover etc
 // grid cols when going to bigger screen
+// now have support for 4k movbile desktp scrns

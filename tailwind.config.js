@@ -16,3 +16,4 @@ module.exports = {
 };
 
 // tailwind css begin/cleanup
+// now have support for 4k movbile desktp scrns
