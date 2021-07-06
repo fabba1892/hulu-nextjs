@@ -39,3 +39,5 @@ const Thumbnail = forwardRef(({ result }, ref) => {
 });
 
 export default Thumbnail;
+
+// yarn add react-flip-move animation is working
